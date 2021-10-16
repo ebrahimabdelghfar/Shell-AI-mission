@@ -9,9 +9,11 @@ def equiphontaic(str1,str2,length):
         counter+=1
         break
   if(counter==length):
-    print("equaphontics")
+    condition=True
+    print("equaphontics("+str(condition)+")")
   else:
-    print("no equaphontics")       
+    condition=False
+    print("equaphontics("+str(condition)+")")       
 
 while(True):
     word1=str.lower(input("please enter the first word :"))
