@@ -1,3 +1,4 @@
+#made by Ebrahim Abdelghfar
 #equiphontaic program
 def equiphontaic(str1,str2,length):
   condition=False
