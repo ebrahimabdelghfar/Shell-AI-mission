@@ -1,4 +1,5 @@
 #made by Ebrahim Abdelghfar
+#made by python 3.9.7
 #equiphontaic program
 def equiphontaic(str1,str2,length):
   condition=False
